@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    font-family: arial, sans-serif;
+    background: linear-gradient(to right, #4ffe608c, #00fe37);
+}
+.poster{
+    width: 200px;
+    margin: 100px auto;
+    padding: 30px;
+    background-color: white;border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 10px 20px black;
+}
+h1{
+    font-size: 48px;
+    color: #333;
+}
+h2{
+    font-size: 24px;
+    color: #555;
+}
+p{
+    font-size: 18px;
+    color: #666;
+}
+footer{
+    margin-top: 20px;
+    font-size: 16px;
+    color: #888;
+}
